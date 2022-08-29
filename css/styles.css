@@ -1,4 +1,7 @@
 body {
-  background-color: bisque;
+  /* background-color: bisque;*/
   width: 1200px;
+}
+.button {
+  color: blue;
 }
